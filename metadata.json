@@ -1,0 +1,7 @@
+{
+  "name": "Container Rental System",
+  "description": "Container Yard & Rental Management System with Gate In/Out, Transporter & Shipper records, Automatic Rent & Pending Charges calculation, and Gate Pass / Slip generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
